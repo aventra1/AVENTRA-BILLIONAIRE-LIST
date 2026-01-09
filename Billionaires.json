@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Elon Musk",
+    "job": "CEO of Tesla & SpaceX",
+    "age": 52,
+    "net_worth": "$250B",
+    "rank": 1,
+    "country": "USA",
+    "industry": "Technology",
+    "trend": "up"
+  },
+  {
+    "name": "Jeff Bezos",
+    "job": "Founder of Amazon",
+    "age": 58,
+    "net_worth": "$190B",
+    "rank": 2,
+    "country": "USA",
+    "industry": "E-commerce",
+    "trend": "down"
+  },
+  {
+     "name": "Jeff Bezos",
+    "job": "Founder of Amazon",
+    "age": 58,
+    "net_worth": "$190B",
+    "rank": 2,
+    "country": "USA",
+    "industry": "E-commerce",
+    "trend": "down"
+  }
+]
